@@ -107,9 +107,5 @@ Contributions, suggestions, and issue reports are welcome. Please open a pull re
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License**.
-
----
 
 ### ⭐ If you found this project helpful, please consider starring the repository!
